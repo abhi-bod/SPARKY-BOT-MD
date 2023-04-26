@@ -1,6 +1,6 @@
 
 
-<h1 align="center">ABHI<br></h1>
+<h1 align="center"><br></h1>
 <p align="center">
 <img src="https://i.imgur.com/u9RfIfy.jpeg" alt="animated" width="255" height="350" />
 </p>
